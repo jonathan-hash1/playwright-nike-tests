@@ -211,3 +211,4 @@ __marimo__/
 /.idea/playwright-nike-tests.iml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
+/.idea/copilot.data.migration.agent.xml
